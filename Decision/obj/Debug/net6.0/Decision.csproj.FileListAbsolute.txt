@@ -1,0 +1,15 @@
+C:\Users\vi\Desktop\Учеба в GB\repository\Seminar_C#\Results Specialist block\Decision\bin\Debug\net6.0\Decision.exe
+C:\Users\vi\Desktop\Учеба в GB\repository\Seminar_C#\Results Specialist block\Decision\bin\Debug\net6.0\Decision.deps.json
+C:\Users\vi\Desktop\Учеба в GB\repository\Seminar_C#\Results Specialist block\Decision\bin\Debug\net6.0\Decision.runtimeconfig.json
+C:\Users\vi\Desktop\Учеба в GB\repository\Seminar_C#\Results Specialist block\Decision\bin\Debug\net6.0\Decision.dll
+C:\Users\vi\Desktop\Учеба в GB\repository\Seminar_C#\Results Specialist block\Decision\bin\Debug\net6.0\Decision.pdb
+C:\Users\vi\Desktop\Учеба в GB\repository\Seminar_C#\Results Specialist block\Decision\obj\Debug\net6.0\Decision.csproj.AssemblyReference.cache
+C:\Users\vi\Desktop\Учеба в GB\repository\Seminar_C#\Results Specialist block\Decision\obj\Debug\net6.0\Decision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vi\Desktop\Учеба в GB\repository\Seminar_C#\Results Specialist block\Decision\obj\Debug\net6.0\Decision.AssemblyInfoInputs.cache
+C:\Users\vi\Desktop\Учеба в GB\repository\Seminar_C#\Results Specialist block\Decision\obj\Debug\net6.0\Decision.AssemblyInfo.cs
+C:\Users\vi\Desktop\Учеба в GB\repository\Seminar_C#\Results Specialist block\Decision\obj\Debug\net6.0\Decision.csproj.CoreCompileInputs.cache
+C:\Users\vi\Desktop\Учеба в GB\repository\Seminar_C#\Results Specialist block\Decision\obj\Debug\net6.0\Decision.dll
+C:\Users\vi\Desktop\Учеба в GB\repository\Seminar_C#\Results Specialist block\Decision\obj\Debug\net6.0\refint\Decision.dll
+C:\Users\vi\Desktop\Учеба в GB\repository\Seminar_C#\Results Specialist block\Decision\obj\Debug\net6.0\Decision.pdb
+C:\Users\vi\Desktop\Учеба в GB\repository\Seminar_C#\Results Specialist block\Decision\obj\Debug\net6.0\Decision.genruntimeconfig.cache
+C:\Users\vi\Desktop\Учеба в GB\repository\Seminar_C#\Results Specialist block\Decision\obj\Debug\net6.0\ref\Decision.dll
